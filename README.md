@@ -1,2 +1,2 @@
 # ML_Algorithms
-Machine learning algorithms applied on different data sets
+Different Machine learning algorithms applied on various data sets
