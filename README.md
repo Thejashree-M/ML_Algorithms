@@ -1,3 +1,3 @@
 # ML_Algorithms
 
-Different Machine learning algorithms applied on various data sets
+Supervised and Unsupervised Machine Learning algorithms applied on various data sets
